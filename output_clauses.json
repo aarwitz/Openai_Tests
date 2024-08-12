@@ -1,0 +1,56 @@
+{
+  "clauses": [
+    {
+      "title": "1. THE LESSOR.",
+      "content": "Jane Smith (the \u201cLessor\u201d).\n\nPhone: (312) 555-7890\nEmail Address: jane.smith@example.com"
+    },
+    {
+      "title": "2. THE LESSEE.",
+      "content": "John Doe (the \u201cLessee\u201d).\n\nPhone: (217) 555-1234\nEmail Address: john.doe@example.com"
+    },
+    {
+      "title": "3. ADDRESS OF PREMISES.",
+      "content": "789 Oak Street, Chicago, IL 60610 (the \u201cPremises\u201d)."
+    },
+    {
+      "title": "4. RENTABLE SPACE.",
+      "content": "The total rentable space of the Premises consists of 2,500 square feet."
+    },
+    {
+      "title": "5. LEASE TERM.",
+      "content": "The term of the lease shall commence on September 1, 2024, and end on August 31, 2029 (the \u201cLease Term\u201d)."
+    },
+    {
+      "title": "6. USE OF PREMISES.",
+      "content": "The Lessee shall be allowed to use the Premises for the following: retail store for organic groceries."
+    },
+    {
+      "title": "7. RENT.",
+      "content": "The rent to be paid by the Lessee to the Lessor throughout the Lease Term is to be made in monthly installments of $5,000 (the \u201cRent\u201d). The Rent shall be due on the 1st day of each month (the \u201cDue Date\u201d)."
+    },
+    {
+      "title": "8. LATE FEE.",
+      "content": "If Rent is not paid by the Due Date, the Lessee shall be required to pay the following late fee: $100 if the payment is more than 5 days late."
+    },
+    {
+      "title": "9. EXPENSES.",
+      "content": "The Lessee shall be required to pay the following monthly expenses in addition to the Rent: utilities, property insurance, and maintenance.\n\nThe Lessor shall be required to pay the following monthly expenses: property taxes."
+    },
+    {
+      "title": "10. DEPOSIT.",
+      "content": "The Parties agree that a security deposit will be required. If required, a security deposit in the amount of $10,000 shall be paid by the Lessee to the Lessor prior to or upon the signing of a lease.\n\nNote: If a security deposit will not be required, delete the sentence beginning with \u201cIf required\u201d above."
+    },
+    {
+      "title": "11. INTENTION OF THE PARTIES.",
+      "content": "This Letter sets forth the intentions of the Parties to use reasonable efforts to negotiate, in good faith, a Definitive Agreement with respect to all matters herein. Notwithstanding paragraphs 11 through 13, which shall be legally binding, any legal obligations with respect to all other matters shall only arise if and when the Parties execute and deliver a Definitive Agreement."
+    },
+    {
+      "title": "12. GOVERNING LAW.",
+      "content": "This Letter shall be governed under the laws of the State of Illinois."
+    },
+    {
+      "title": "13. SIGNATURES.",
+      "content": "Lessor\u2019s Signature: _______________ Date: 08/04/2024\nPrint Name: Jane Smith\n\nLessee\u2019s Signature: _______________ Date: 08/04/2024\nPrint Name: John Doe"
+    }
+  ]
+}
